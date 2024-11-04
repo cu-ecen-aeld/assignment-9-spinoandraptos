@@ -6,7 +6,7 @@
 ##############################################################
 
 # Reference assignment 3 git contents using latest commit
-AESD_ASSIGNMENTS_VERSION = 117bc609ad1afe9b8abffc46d73690e9694eb9e2
+AESD_ASSIGNMENTS_VERSION = 51ede86e6307dbb5d53838ce8b7bcf224144b47a
 
 # Reference the *ssh* repository URL here to work with ssh keys and the automated build/test system
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-spinoandraptos.git
